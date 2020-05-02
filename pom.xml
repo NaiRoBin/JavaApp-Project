@@ -3,4 +3,7 @@
   <groupId>com.nairobin</groupId>
   <artifactId>JavaApp-Project</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <build>
+  	<finalName>JavaApp-Project</finalName>
+  </build>
 </project>
