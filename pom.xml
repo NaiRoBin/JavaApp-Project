@@ -4,6 +4,6 @@
   <artifactId>JavaApp-Project</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <build>
-  	<finalName>JavaApp-Project</finalName>
+  	<finalName>javaapp-project</finalName>
   </build>
 </project>
